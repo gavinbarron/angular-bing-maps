@@ -1,3 +1,5 @@
+** This repository is now archived and is the only remaining copy of the source code for this package which was originally provided via bower by https://github.com/Credera/ who have now removed this code **
+
 # Angular Bing Maps
 [![Join the chat at https://gitter.im/Credera/angular-bing-maps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Credera/angular-bing-maps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
